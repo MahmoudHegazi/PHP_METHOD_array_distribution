@@ -1,4 +1,9 @@
 # PHP_METHOD_array_distribution
+
+![image](https://user-images.githubusercontent.com/55125302/154490748-161bcd49-dba3-4b4c-b5bf-c21698822ad0.png)
+
+
+
 The inline method is similar to the non-clustered parse method in Python but for
 php it can be used to distribute or create entire lists with a specified list length,
 and also with the default value that can be set using another function or the reason

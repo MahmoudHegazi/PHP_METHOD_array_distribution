@@ -105,3 +105,11 @@ echo "</pre>";
 ?>
 
 ```
+
+### note
+
+Since the loops used are not data bound and depend on the limits given to the $max_per_array and $max_arr functions function will adding new default data or ignoring extra data in the example above
+A new default value has been added to complete the length of the child array, in the next example it will ignore the additional data and get only 3 arrays with 3elements
+
+![image](https://user-images.githubusercontent.com/55125302/154491262-22e7a99d-0a75-4b87-95ff-c679b83f1261.png)
+
